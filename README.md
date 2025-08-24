@@ -12,6 +12,8 @@ This project provides a pipeline that transforms Excel files (`.xlsx`) containin
 
 本项目实现了一个处理流程：将 Excel (`.xlsx`) 格式的练习题数据转换为 JSON，再生成 LaTeX (`.tex`) 文件，最后编译为 **题册 PDF**。
 
+With the help of ChatGPT. Refer to this link for more information: https://chatgpt.com/share/68a6bc17-0604-8000-8b30-8a8077592cdc
+
 **Pipeline | 转换流程**
 
 ```
